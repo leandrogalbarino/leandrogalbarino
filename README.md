@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello, i'm Leandro Kise 👋
 
-<!--
-**leandrokise/leandrokise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 years ago!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Leandro Kise GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrokise&show_icons=true&theme=radical)
+
+## **TECHNOLOGY**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**I'm programmer in C**, but i want learn more languages!!
+
+### Repositories complete in **C**
+
+---
+
+- [Hunting words](https://github.com/leandrokise/Caca-Palavras)
+        - Search words in all directions.
+- [Game Inspired by **243** ](https://github.com/leandrokise/Lab-Programacao/tree/main/TRAB%20FINAL/l1-LeandroOliveira)
+        - Inspired by 243, but insted of numbers, we use letters A,B,C,D,E,F.
+
+## **SOCIAL MIDIA**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro.kise)
+
