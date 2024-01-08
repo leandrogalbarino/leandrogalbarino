@@ -23,5 +23,8 @@ My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 y
 
 ## **SOCIAL MIDIA**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro.kise)
+<a href="https://www.instagram.com/leandro.kise" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
 
