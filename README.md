@@ -19,7 +19,7 @@ My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 y
 - [Hunting words](https://github.com/leandrokise/Caca-Palavras)
         - Search words in all directions.
 - [Game Inspired by **243** ](https://github.com/leandrokise/Lab-Programacao/tree/main/TRAB%20FINAL/l1-LeandroOliveira)
-        - Inspired by 243, but insted of numbers, we use letters A,B,C,D,E,F.
+        - Inspired by 243, but insted of numbers, we use letters A, B, C, D, E, F.
 
 ## **SOCIAL MIDIA**
 
