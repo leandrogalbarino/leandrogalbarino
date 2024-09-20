@@ -2,7 +2,7 @@
 
 ---
 
-Meu nome é **Leandro Oliveira Galbarino do Nascimento**, eu moro no brasil e estudo Ciência da Computação na Universidade Federal de Santa Maria. Eu tenho 19 anos.
+Meu nome é **Leandro Oliveira Galbarino do Nascimento**, eu moro no Brasil e estudo Ciência da Computação na Universidade Federal de Santa Maria. Eu tenho 19 anos e entrei no mundo da programação a quase dois anos.
 
 ![Leandro Galbarino GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical)
 
