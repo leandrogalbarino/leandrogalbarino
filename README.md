@@ -1,10 +1,10 @@
-### Hello, i'm Leandro Kise 👋
+### Hello, i'm Leandro Galbarino 👋
 
 ---
 
 My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 years ago!
 
-![Leandro Kise GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrokise&show_icons=true&theme=radical)
+![Leandro Kise GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical)
 
 ## **TECHNOLOGY**
 
@@ -16,9 +16,9 @@ My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 y
 
 ---
 
-- [Hunting words](https://github.com/leandrokise/Caca-Palavras)
+- [Hunting words](https://github.com/leandrogalbarino/Caca-Palavras)
         - Search words in all directions.
-- [Game Inspired by **243** ](https://github.com/leandrokise/Lab-Programacao/tree/main/TRAB%20FINAL/l1-LeandroOliveira)
+- [Game Inspired by **243** ](https://github.com/leandrogalbarino/Lab-Programacao/tree/main/TRAB%20FINAL/l1-LeandroOliveira)
         - Inspired by 243, but insted of numbers, we use letters A, B, C, D, E, F.
 
 ## **SOCIAL MIDIA**
