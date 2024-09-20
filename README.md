@@ -9,7 +9,7 @@ Meu nome é **Leandro Oliveira Galbarino do Nascimento**, eu moro no Brasil e es
 ## **TECNOLOGIAS**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JAVA](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Atualmente programo em C, Java**, porém estou aprendendo Python para trabalhar com inteligência artificial.
 Além disso, também sei programar um pouco em Java Script, e mando bem desenvolvendo em HTML e CSS.
@@ -19,11 +19,11 @@ Além disso, também sei programar um pouco em Java Script, e mando bem desenvol
 ---
 
 - [Hunting words](https://github.com/leandrogalbarino/Caca-Palavras)
-        - Search words in all directions.
+        - Caça palavras em oito direções.
 - [Game Inspired by **243** ](https://github.com/leandrogalbarino/Lab-Programacao/tree/main/TRAB%20FINAL/l1-LeandroOliveira)
-        - Inspired by 243, but insted of numbers, we use letters A, B, C, D, E, F.
+        - Jogo inspirado no 243, ao invés de números, usando letras.
 
-## **SOCIAL MIDIA**
+## **Redes Sociais**
 
 <a href="https://www.instagram.com/leandro.kise" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
