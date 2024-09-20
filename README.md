@@ -1,18 +1,20 @@
-### Hello, i'm Leandro Galbarino 👋
+### Olá, Eu sou o Leandro Galbarino 👋
 
 ---
 
-My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 19 years ago!
+Meu nome é **Leandro Oliveira Galbarino do Nascimento**, eu moro no brasil e estudo Ciência da Computação na Universidade Federal de Santa Maria. Eu tenho 19 anos.
 
-![Leandro Kise GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical)
+![Leandro Galbarino GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical)
 
-## **TECHNOLOGY**
+## **TECNOLOGIAS**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JAVA](https://iconduck.com/icons/112041/java)
 
-**I'm programmer in C**, but i want learn more languages!!
+**Atualmente programo em C, Java**, porém estou aprendendo Python para trabalhar com inteligência artificial.
+Além disso, também sei programar um pouco em Java Script, e mando bem desenvolvendo em HTML e CSS.
 
-### Repositories complete in **C**
+### Repositórios **C**
 
 ---
 
