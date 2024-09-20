@@ -2,7 +2,7 @@
 
 ---
 
-My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 years ago!
+My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 19 years ago!
 
 ![Leandro Kise GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical)
 
