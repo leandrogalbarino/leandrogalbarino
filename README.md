@@ -9,7 +9,7 @@ Meu nome é **Leandro Oliveira Galbarino do Nascimento**, eu moro no Brasil e es
 ## **TECNOLOGIAS**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JAVA](https://iconduck.com/icons/112041/java)
+![JAVA](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png)
 
 **Atualmente programo em C, Java**, porém estou aprendendo Python para trabalhar com inteligência artificial.
 Além disso, também sei programar um pouco em Java Script, e mando bem desenvolvendo em HTML e CSS.
