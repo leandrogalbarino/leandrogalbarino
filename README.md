@@ -1,30 +1,26 @@
-### Hello, i'm Leandro Kise 👋
+### Olá meu nome é Leandro Galbarino 👋
 
 ---
 
-My name is **Leandro**, I live in Brazil and i'm a new programmer. I'm have 18 years ago!
+<p>
+  Tenho atualmente 20 anos e programo desde os 18. Neste perfil, compartilho meus projetos pessoais, sempre buscando me aperfeiçoar. Sinta-se à vontade para explorar meus projetos e me contatar se necessário.
+</p>
 
-![Leandro Kise GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrokise&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical"> </img>
 
-## **TECHNOLOGY**
+## **TECNOLOGIAS**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img alt="javascript" src="images/js.png" width='50px'> </img>
+<img alt="python" src="images/python.png" width='50px'> </img>
+<img alt="java" src="images/java.png" width='50px'> </img>
 
-**I'm programmer in C**, but i want learn more languages!!
 
-### Repositories complete in **C**
-
----
-
-- [Hunting words](https://github.com/leandrokise/Caca-Palavras)
-        - Search words in all directions.
-- [Game Inspired by **243** ](https://github.com/leandrokise/Lab-Programacao/tree/main/TRAB%20FINAL/l1-LeandroOliveira)
-        - Inspired by 243, but insted of numbers, we use letters A,B,C,D,E,F.
-
-## **SOCIAL MIDIA**
+## **REDES SOCIAIS**
 
 <a href="https://www.instagram.com/leandro.kise" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="images/instagram.png" alt="Instagram" width="50px">
 </a>
-
+<a href="https://www.linkedin.com/in/leandrogalbarino/" target="_blank">
+    <img src="images/linkedin.svg" alt="LinkedIn" width="50px">
+</a>
 
