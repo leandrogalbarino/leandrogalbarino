@@ -1,26 +1,31 @@
-### Olá meu nome é Leandro Galbarino 👋
+### Olá, meu nome é Leandro Galbarino 👋
 
 ---
 
-<p>
-  Tenho atualmente 20 anos e programo desde os 18. Neste perfil, compartilho meus projetos pessoais, sempre buscando me aperfeiçoar. Sinta-se à vontade para explorar meus projetos e me contatar se necessário.
-</p>
+Tenho 20 anos e programo desde os 18. Sou estudante de Ciência da Computação na UFSM e estou constantemente me aperfeiçoando por meio de projetos pessoais e estudos práticos.
+
+Atualmente, estou direcionando minha carreira para o **Desenvolvimento Backend**, com foco em **Java + Spring Boot**, arquitetura de **microserviços** e boas práticas de projeto.
+No entanto, também tenho experiência com **desenvolvimento Web Full Stack**, utilizando tecnologias como:
+
+- **Frontend**: HTML, CSS, JavaScript e React  
+- **Backend**: Java (Spring Boot)
+- **Banco de Dados**: MySQL, PostgreSQL e MongoDB
+
+Neste perfil, compartilho meus projetos, estudos e avanços na programação.  
+**Fique à vontade para explorar e entrar em contato!**
 
 <img src="https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical"> </img>
 
 ## **TECNOLOGIAS**
 
-<img alt="javascript" src="images/js.png" width='50px'> </img>
-<img alt="python" src="images/python.png" width='50px'> </img>
 <img alt="java" src="images/java.png" width='50px'> </img>
-
+<img alt="springboot" src="images/spring.png" width='50px'> </img>
+<img alt="javascript" src="images/js.png" width='50px'> </img>
 
 ## **REDES SOCIAIS**
-
-<a href="https://www.instagram.com/leandro.kise" target="_blank">
-  <img src="images/instagram.png" alt="Instagram" width="50px">
-</a>
 <a href="https://www.linkedin.com/in/leandrogalbarino/" target="_blank">
     <img src="images/linkedin.svg" alt="LinkedIn" width="50px">
 </a>
-
+<a href="https://www.instagram.com/leandrogalbarino" target="_blank">
+  <img src="images/instagram.png" alt="Instagram" width="50px">
+</a>
