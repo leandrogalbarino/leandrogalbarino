@@ -24,9 +24,9 @@ Neste perfil, compartilho meus projetos, estudos e avanços na programação.
 
 ## **BANCOS DE DADOS**
 
-<img alt="MySQL" src="images/mysql.png" width="50px">
-<img alt="PostgreSQL" src="images/postgresql.png" width="50px">
-<img alt="MongoDB" src="images/mongodb.png" width="50px">
+<img alt="MySQL" src="images/mysql.png" width="50px"></img>
+<img alt="PostgreSQL" src="images/postgresql.png" width="50px"></img>
+<img alt="MongoDB" src="images/mongodb.png" width="50px"></img>
 
 
 
