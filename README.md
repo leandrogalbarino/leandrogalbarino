@@ -32,10 +32,10 @@ Neste perfil, compartilho meus projetos, estudos e avanços na programação.
 
 ## **REDES SOCIAIS**
 <a href="https://www.linkedin.com/in/leandrogalbarino/" target="_blank">
-    <img src="images/linkedin.png" alt="LinkedIn" width="50px">
+    <img src="images/linkedin-img.png" alt="LinkedIn" width="50px">
 </a>
 <a href="https://www.instagram.com/leandrogalbarino" target="_blank">
-  <img src="images/instagram.png" alt="Instagram" width="50px">
+  <img src="images/instagram-img.png" alt="Instagram" width="50px">
 </a>
 
 ## **🚀 Projetos em Destaque**
