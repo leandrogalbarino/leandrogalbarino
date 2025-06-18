@@ -38,7 +38,7 @@ Neste perfil, compartilho meus projetos, estudos e avanços na programação.
   <img src="images/instagram-img.png" alt="Instagram" width="50px">
 </a>
 
-## **🚀 Projetos em Destaque**
+## **PROJETOS EM DESTAQUE**
 
-- [🔗 Quadrinópolis](https://quadrinopolis-app.vercel.app/) — Aplicativo web para leitura de quadrinhos online, desenvolvido em **React**.  
+- <a href="https://quadrinopolis-app.vercel.app/" target="_blank">Quadrinópolis</a> — Aplicativo web para leitura de quadrinhos online, desenvolvido em **React**.  
   > Backend em desenvolvimento com **Java + Spring Boot**.
