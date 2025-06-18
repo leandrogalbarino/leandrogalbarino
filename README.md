@@ -19,13 +19,26 @@ Neste perfil, compartilho meus projetos, estudos e avanços na programação.
 ## **TECNOLOGIAS**
 
 <img alt="java" src="images/java.png" width='50px'> </img>
-<img alt="springboot" src="images/spring.png" width='50px'> </img>
-<img alt="javascript" src="images/js.png" width='50px'> </img>
+<img alt="springboot" src="images/spring-boot.png" width='50px'> </img>
+<img alt="javascript" src="images/javascript.png" width='50px'> </img>
+
+## **BANCOS DE DADOS**
+
+<img alt="MySQL" src="images/mysql.png" width="50px">
+<img alt="PostgreSQL" src="images/postgresql.png" width="50px">
+<img alt="MongoDB" src="images/mongodb.png" width="50px">
+
+
 
 ## **REDES SOCIAIS**
 <a href="https://www.linkedin.com/in/leandrogalbarino/" target="_blank">
-    <img src="images/linkedin.svg" alt="LinkedIn" width="50px">
+    <img src="images/linkedin.png" alt="LinkedIn" width="50px">
 </a>
 <a href="https://www.instagram.com/leandrogalbarino" target="_blank">
   <img src="images/instagram.png" alt="Instagram" width="50px">
 </a>
+
+## **🚀 Projetos em Destaque**
+
+- [🔗 Quadrinópolis](https://quadrinopolis-app.vercel.app/) — Aplicativo web para leitura de quadrinhos online, desenvolvido em **React**.  
+  > Backend em desenvolvimento com **Java + Spring Boot**.
