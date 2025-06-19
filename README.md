@@ -4,7 +4,7 @@
 
 Tenho 20 anos e programo desde os 18. Sou estudante de Ciência da Computação na UFSM e estou constantemente me aperfeiçoando por meio de projetos pessoais e estudos práticos.
 
-Atualmente, estou direcionando minha carreira para o **Desenvolvimento Backend**, com foco em **Java + Spring Boot**, arquitetura de **microserviços** e boas práticas de projeto.
+Atualmente, estou direcionando minha carreira para o **Desenvolvimento Backend**, com foco em **Java + Spring Boot**.
 No entanto, também tenho experiência com **desenvolvimento Web Full Stack**, utilizando tecnologias como:
 
 - **Frontend**: HTML, CSS, JavaScript e React  
