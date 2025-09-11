@@ -4,11 +4,11 @@
 
 Tenho 20 anos e programo desde os 18. Sou estudante de Ciência da Computação na UFSM e estou constantemente me aperfeiçoando por meio de projetos pessoais e estudos práticos.
 
-Atualmente, estou direcionando minha carreira para o **Desenvolvimento Backend**, com foco em **Java + Spring Boot**.
-No entanto, também tenho experiência com **desenvolvimento Web Full Stack**, utilizando tecnologias como:
+Atualmente, estou direcionando minha carreira para o **Desenvolvimento Backend**, com foco em **Node js**.
+Além disto, também tenho experiência com **desenvolvimento Web Full Stack**, utilizando tecnologias como:
 
 - **Frontend**: HTML, CSS, JavaScript e React  
-- **Backend**: Java (Spring Boot)
+- **Backend**: Node JS
 - **Banco de Dados**: MySQL, PostgreSQL e MongoDB
 
 Neste perfil, compartilho meus projetos, estudos e avanços na programação.  
@@ -18,9 +18,8 @@ Neste perfil, compartilho meus projetos, estudos e avanços na programação.
 
 ## **TECNOLOGIAS**
 
-<img alt="java" src="images/java.png" width='50px'> </img>
-<img alt="springboot" src="images/spring-boot.png" width='50px'> </img>
 <img alt="javascript" src="images/javascript.png" width='50px'> </img>
+<img alt="java" src="images/java.png" width='50px'> </img>
 
 ## **BANCOS DE DADOS**
 
@@ -41,4 +40,4 @@ Neste perfil, compartilho meus projetos, estudos e avanços na programação.
 ## **PROJETOS EM DESTAQUE**
 
 - <a href="https://quadrinopolis-app.vercel.app/" target="_blank">Quadrinópolis</a> — Aplicativo web para leitura de quadrinhos online, desenvolvido em **React**.  
-  > Backend em desenvolvimento com **Java + Spring Boot**.
+  > Backend em desenvolvimento com **Node js com Express**.
