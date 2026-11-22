@@ -1,43 +1,23 @@
-### Olá, meu nome é Leandro Galbarino 👋
+### Olá, sou o Leandro Galbarino
 
----
+Graduando em Ciência da Computação na UFSM (previsão de conclusão em 2027) e desenvolvedor Full Stack, com foco atual em arquitetura de backend e aplicações integradas com IA.
 
-Tenho 20 anos e programo desde os 18. Sou estudante de Ciência da Computação na UFSM e estou constantemente me aperfeiçoando por meio de projetos pessoais e estudos práticos.
+**Experiência**
+- **Pitang Labs** — Consultor de TI e Desenvolvimento (Inovação). Trabalho na construção de aplicações web e fluxos de desenvolvimento orientados a agentes de IA, RPA e Spec-Driven Development utilizando TypeScript, Node.js, React, Docker, GitLab e Google Cloud.
+- **UFSM (CCSH)** — Desenvolvedor Full Stack no Núcleo de Gestão Orçamentária. Desenvolvimento e manutenção de APIs e sistemas internos de gestão administrativa e transparência com Python, Django REST Framework, React e IBM Db2.
+- **UFSM (Laboratório de Piscicultura)** — Ex-bolsista de iniciação científica em Machine Learning e Visão Computacional, treinando redes neurais convolucionais para biometria não invasiva. Também atuei como monitor da disciplina de Programação.
 
-Atualmente, estou direcionando minha carreira para o **Desenvolvimento Backend**, com foco em **Node js**.
-Além disto, também tenho experiência com **desenvolvimento Web Full Stack**, utilizando tecnologias como:
+**Stack principal**
+- **Linguagens:** TypeScript, JavaScript, Python, SQL
+- **Backend:** Node.js, Express, NestJS, Django, Django REST Framework, Prisma ORM, Keycloak
+- **Frontend:** React, Next.js, TanStack Router, Tailwind CSS, Material UI, Shadcn UI
+- **IA & Automação:** Agentes com LLMs, RAG
+- **Dados & Infra:** PostgreSQL, MySQL, MongoDB, Firebase/Firestore, Redis, Docker, Linux, AWS
 
-- **Frontend**: HTML, CSS, JavaScript e React  
-- **Backend**: Node JS
-- **Banco de Dados**: MySQL, PostgreSQL e MongoDB
+**Certificações**
+- AWS Academy Graduate: Cloud Foundations, Cloud Architecting e Web Application Builder.
 
-Neste perfil, compartilho meus projetos, estudos e avanços na programação.  
-**Fique à vontade para explorar e entrar em contato!**
-
-<img src="https://github-readme-stats.vercel.app/api?username=leandrogalbarino&show_icons=true&theme=radical"> </img>
-
-## **TECNOLOGIAS**
-
-<img alt="javascript" src="images/javascript.png" width='50px'> </img>
-<img alt="java" src="images/java.png" width='50px'> </img>
-
-## **BANCOS DE DADOS**
-
-<img alt="MySQL" src="images/mysql.png" width="50px"></img>
-<img alt="PostgreSQL" src="images/postgresql.png" width="50px"></img>
-<img alt="MongoDB" src="images/mongodb.png" width="50px"></img>
-
-
-
-## **REDES SOCIAIS**
+<br />
 <a href="https://www.linkedin.com/in/leandrogalbarino/" target="_blank">
-    <img src="images/linkedin-img.png" alt="LinkedIn" width="50px">
+  <img src="images/linkedin-img.png" alt="LinkedIn" width="40px">
 </a>
-<a href="https://www.instagram.com/leandrogalbarino" target="_blank">
-  <img src="images/instagram-img.png" alt="Instagram" width="50px">
-</a>
-
-## **PROJETOS EM DESTAQUE**
-
-- <a href="https://quadrinopolis-app.vercel.app/" target="_blank">Quadrinópolis</a> — Aplicativo web para leitura de quadrinhos online, desenvolvido em **React**.  
-  > Backend em desenvolvimento com **Node js com Express**.
